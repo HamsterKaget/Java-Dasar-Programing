@@ -8,7 +8,7 @@ public class HelloWorld {
         System.out.println("Hello World !");
 
         /**
-         * namaun kita bisa menggunakan beberapa cara untuk mencetak output ke console, antara Lain :
+         * namun kita bisa menggunakan beberapa cara untuk mencetak output ke console, antara Lain :
          */
         System.out.print("Hello Java ! ");      // -> Untuk memprint sesuatu ke console tanpa enter di akhir
         System.out.println("Hello Python ! ");   // -> Untuk memprint sesuatu ke console dengan enter di akhir
