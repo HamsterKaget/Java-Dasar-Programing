@@ -40,7 +40,7 @@ public class variabel {
          * Kita bisa memperbarui / mengupdate value dari suatu variabel dengan cara `<namaVariabel> = <valueBaru>`
          */
 
-        umur = 18; // value dari variabel umur di udpdate
+        umur = 18; // <- value dari variabel umur di udpdate
 
         System.out.println("3 tahun lagi saya berusia " + umur); // variabel umur akan menjadi 18 karena value sudah di update
 
