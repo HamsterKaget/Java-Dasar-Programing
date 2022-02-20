@@ -3,4 +3,8 @@
 "/External Libraries"
 
 *.iml
+<<<<<<< HEAD
 *.txt
+=======
+*.txt
+>>>>>>> 36ff88b30b7e905941c9068a196f74a9d6d08541

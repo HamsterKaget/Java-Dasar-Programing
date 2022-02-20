@@ -1,5 +1,4 @@
-/**
- * Program Hello-World
+/** Struktur Java
  * Dalam Java , Code harus diawali dengan mendeklarasikan class terlebih dahulu
  * Untuk mendeklarasikan class dalam Java bisa menggunakan `class <namaClass> {}`
  * Note : * nama class dalam java harus sama dengan nama file tersebut !
