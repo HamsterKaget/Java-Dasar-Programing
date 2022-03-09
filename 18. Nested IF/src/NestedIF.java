@@ -2,7 +2,7 @@ public class NestedIF {
 
     public static void main(String[] args) {
 
-        /** Nested If ( IF Bercabang )
+        /** Nested If ( Percabangan Bersarang )
          * Sebuah if bersarang adalah pernyataan if yang merupakan target dari if atau else lainnya. Pernyataan if
          * bersarang berarti pernyataan if di dalam pernyataan if. Ya, java memungkinkan kita untuk membuat pernyataan
          * if di dalam pernyataan if. yaitu, kita dapat menempatkan pernyataan if di dalam pernyataan if yang lain.
