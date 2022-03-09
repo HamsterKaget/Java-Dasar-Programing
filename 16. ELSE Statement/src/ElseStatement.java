@@ -2,7 +2,7 @@ public class ElseStatement {
 
     public static void main(String[] args) {
 
-        /** Else Statement ( else if )
+        /** Else Statement ( else )
          * Pernyataan if sendiri memberi tahu kita bahwa jika suatu kondisi benar, itu akan mengeksekusi blok pernyataan
          * dan jika kondisinya salah, itu tidak akan dilakukan. Tetapi bagaimana jika kita ingin melakukan sesuatu yang
          * lain jika kondisinya salah. Di sinilah pernyataan lain. Kita dapat menggunakan pernyataan else dengan
