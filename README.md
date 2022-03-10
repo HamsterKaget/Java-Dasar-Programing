@@ -41,37 +41,34 @@ Slide PPT, Latihan, Source Code, Mini Project** dan lainnya !
 
 > **[ 10. Operator Relasi ]( https://github.com/HamsterKaget/Belajar-Java-Dasar/tree/main/10.%20%20Operator%20Relasi/src )**
 
-> **[ 11. Operator Logika ](  )**
+> **[ 11. Operator Logika ]( https://github.com/HamsterKaget/Belajar-Java-Dasar/tree/main/11.%20Operator%20Logika/src )**
 
-> **[ 12. Operator Ternary ](  )** 
+> **[ 12. Operator Ternary ]( https://github.com/HamsterKaget/Belajar-Java-Dasar/tree/main/12.%20Operator%20Ternary/src )** 
+
+> **[ 13. User Input ( Scanner ) ]( https://github.com/HamsterKaget/Belajar-Java-Dasar/tree/main/13.%20User%20Input%20(%20Scanner%20)/src )**
+
+> **[ 14. Latihan Java 1 ]( https://github.com/HamsterKaget/Belajar-Java-Dasar/tree/main/14.%20Latihan%20Java%201/src )**
 
 ### Hari KE 3
 
-> **[ 00. Struktur Java ]( https://github.com/HamsterKaget/Belajar-Java-Dasar/tree/main/00.%20Struktur%20Java/src )**
+> **[ 15. IF Statement ]( https://github.com/HamsterKaget/Belajar-Java-Dasar/tree/main/15.%20IF%20Statement/src )**
 
-> **[ 01. Program Hello World ]( https://github.com/HamsterKaget/Belajar-Java-Dasar/tree/main/01.%20Program%20Hello%20World/src )**
+> **[ 16. ELSE Statement ]( https://github.com/HamsterKaget/Belajar-Java-Dasar/tree/main/16.%20ELSE%20Statement/src )**
 
-> **[ 02. Deklarasi Variabel & Assigment Operator ]( https://github.com/HamsterKaget/Belajar-Java-Dasar/tree/main/02.%20Variabel%20Assigment%20Deklarasi/src )**
+> **[ 17. ELSE IF Statement ]( https://github.com/HamsterKaget/Belajar-Java-Dasar/tree/main/17.%20ELSE%20IF%20Statement/src )**
 
-> **[ 03. Tipe Data Number ]( https://github.com/HamsterKaget/Belajar-Java-Dasar/tree/main/03.%20Tipe%20Data%20Number/src )**
+> **[ 18. Nested IF ]( https://github.com/HamsterKaget/Belajar-Java-Dasar/tree/main/18.%20Nested%20IF/src )**
 
-> **[ 04. Tipe Data Char ]( https://github.com/HamsterKaget/Belajar-Java-Dasar/tree/main/04.%20Tipe%20Data%20Char/src )**
-
-> **[ 05. Tipe Data Boolean ]( https://github.com/HamsterKaget/Belajar-Java-Dasar/tree/main/05.%20Tipe%20Data%20Boolean/src )** 
+> **[ 19. Swicth Case ]( https://github.com/HamsterKaget/Belajar-Java-Dasar/tree/main/19.%20Swicth%20Case/src )**
 
 ### Hari KE 4
 
-> **[ 00. Struktur Java ]( https://github.com/HamsterKaget/Belajar-Java-Dasar/tree/main/00.%20Struktur%20Java/src )**
+> **[ 20. While Loop ]( https://github.com/HamsterKaget/Belajar-Java-Dasar/tree/main/20.%20While%20Loop/src )**
 
-> **[ 01. Program Hello World ]( https://github.com/HamsterKaget/Belajar-Java-Dasar/tree/main/01.%20Program%20Hello%20World/src )**
+> **[ 21. Do-While Loop ]( https://github.com/HamsterKaget/Belajar-Java-Dasar/tree/main/21.%20do-While%20Loop/src )**
 
-> **[ 02. Deklarasi Variabel & Assigment Operator ]( https://github.com/HamsterKaget/Belajar-Java-Dasar/tree/main/02.%20Variabel%20Assigment%20Deklarasi/src )**
+> **[ 22. For Loop ]( https://github.com/HamsterKaget/Belajar-Java-Dasar/tree/main/22.%20For%20Loop/src )**
 
-> **[ 03. Tipe Data Number ]( https://github.com/HamsterKaget/Belajar-Java-Dasar/tree/main/03.%20Tipe%20Data%20Number/src )**
-
-> **[ 04. Tipe Data Char ]( https://github.com/HamsterKaget/Belajar-Java-Dasar/tree/main/04.%20Tipe%20Data%20Char/src )**
-
-> **[ 05. Tipe Data Boolean ]( https://github.com/HamsterKaget/Belajar-Java-Dasar/tree/main/05.%20Tipe%20Data%20Boolean/src )** 
 
 <hr>
 
